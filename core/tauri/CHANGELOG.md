@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-beta.23]
+
+### New Features
+
+- [`ddaabda36`](https://www.github.com/tauri-apps/tauri/commit/ddaabda365ed5dc0780925049473989cbd1d7ea3) ([#9922](https://www.github.com/tauri-apps/tauri/pull/9922)) Add `WebviewWindowBuilder::on_download`.
+
 ## \[2.0.0-beta.22]
 
 ### Bug Fixes

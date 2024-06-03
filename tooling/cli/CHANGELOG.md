@@ -1,5 +1,15 @@
 # Changelog
 
+## \[2.0.0-beta.21]
+
+### Bug Fixes
+
+- [`019a74e97`](https://www.github.com/tauri-apps/tauri/commit/019a74e970958d29cf69a6f24669d603399dcbb3) ([#9931](https://www.github.com/tauri-apps/tauri/pull/9931)) Fix wrong migration of `clipboard` and `globalShortcut` modules
+
+### What's Changed
+
+- [`3cca5c2be`](https://www.github.com/tauri-apps/tauri/commit/3cca5c2be88bbd52139e7dda371e88510d28bc8e) ([#9924](https://www.github.com/tauri-apps/tauri/pull/9924)) Migrate to new Android buildFeatures.buildConfig format.
+
 ## \[2.0.0-beta.20]
 
 ### Dependencies
